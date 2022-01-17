@@ -20,9 +20,6 @@
     <PackageReference Include="BlazorMedia" Version="0.4.0.2" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="6.0.1" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="6.0.1" PrivateAssets="all" />
-    <PackageReference Include="OpenCvSharp4" Version="4.5.5.20211231" />
-    <PackageReference Include="OpenCvSharp4.runtime.wasm" Version="4.5.5.20211231" />
-    <PackageReference Include="OpenCvSharp4.Windows" Version="4.5.5.20211231" />
   </ItemGroup>
 
   <ItemGroup>
